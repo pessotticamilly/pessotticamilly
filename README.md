@@ -1,17 +1,19 @@
 <div>
   <div>
     <h2>👋🏻 Olá! Bem-vindo(a) ao meu perfil do Github!</h2>
-    <p>Meu nome é Camilly de Souza Pessotti e eu tenho 18 anos.</p>
+    <p>Meu nome é Camilly de Souza Pessotti e eu tenho 18 anos</p>
   </div>
+  <br />
   <div>
     <h3>Sobre mim:</h3>
     <ul>
-      <li>👩🏻‍💻 Desenvolvedora Fullstack mas amo o Frontend</li>
-      <li>📚✅ Aprendizagem Industrial de Programador de Sistemas da Informação</li>
-      <li>📚✅ Técnico em Desenvolvimento de Sistemas</li>
-      <li>📚🕒 Tecnologo em Análise e Desenvolvimento de Sistemas</li>
+      <li>👩🏻‍💻 Desenvolvedora Fullstack mas o Frontend tem meu ❤️</li>
+      <li>✅ Aprendizagem Industrial de Programador de Sistemas da Informação</li>
+      <li>✅ Técnico em Desenvolvimento de Sistemas</li>
+      <li>🕒 Tecnologo em Análise e Desenvolvimento de Sistemas</li>
     </ul>
   </div>
+  <br />
   <div>
     <a href="https://github.com/pessotticamilly">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=7&theme=dracula"/>
