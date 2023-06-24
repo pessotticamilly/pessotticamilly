@@ -3,7 +3,6 @@
     <h2>👋🏻 Olá! Bem-vindo(a) ao meu perfil do Github!</h2>
     <p>Meu nome é Camilly de Souza Pessotti e eu tenho 18 anos</p>
   </div>
-  <br />
   <div>
     <h3>Sobre mim:</h3>
     <ul>
@@ -16,8 +15,8 @@
   <br />
   <div>
     <a href="https://github.com/pessotticamilly">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=7&theme=dracula"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+      <img height="10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=7&theme=dracula"/>
+      <img height="10rem" src="https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
   </div>
 </div>
   
