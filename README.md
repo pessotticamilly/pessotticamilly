@@ -2,7 +2,6 @@
   <div>
     <h2>👋🏻 Olá! Bem-vindo(a) ao meu perfil do Github!</h2>
   </div>
-  <br />
   <div>
     <h2>Sobre mim:</h2>
     <ol>
@@ -14,7 +13,6 @@
       <li>📚🕒 Tecnologo em Análise e Desenvolvimento de Sistemas</li>
     </ol>
   </div>
-  <br />
   <div>
     <a href="https://github.com/pessotticamilly">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=7&theme=dracula"/>]
