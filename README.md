@@ -1,12 +1,11 @@
 <div>
   <div>
     <h2>👋🏻 Olá! Bem-vindo(a) ao meu perfil do Github!</h2>
+    <p>Meu nome é Camilly de Souza Pessotti e eu tenho 18 anos.</p>
   </div>
   <div>
-    <h2>Sobre mim:</h2>
+    <h3>Sobre mim:</h3>
     <ul>
-      <li>Meu nome é Camilly de Souza Pessotti</li>
-      <li>Tenho 18 anos</li>
       <li>👩🏻‍💻 Desenvolvedora Fullstack mas amo o Frontend</li>
       <li>📚✅ Aprendizagem Industrial de Programador de Sistemas da Informação</li>
       <li>📚✅ Técnico em Desenvolvimento de Sistemas</li>
