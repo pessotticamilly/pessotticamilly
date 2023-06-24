@@ -1,12 +1,27 @@
-# 👋 Hello! Welcome to my Github profile!
-#### My name is Camilly de Souza Pessotti and I'm 18 years old
-
 <div>
-<!--<a href="https://github.com/pessotticamilly">-->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <div>
+    <h2>👋🏻 Olá! Bem-vindo(a) ao meu perfil do Github!</h2>
+  </div>
+  <br />
+  <div>
+    <h2>Sobre mim:</h2>
+    <ol>
+      <li>Meu nome é Camilly de Souza Pessotti</li>
+      <li>Tenho 18 anos</li>
+      <li>👩🏻‍💻 Desenvolvedora Fullstack mas amo o Frontend</li>
+      <li>📚✅ Aprendizagem Industrial de Programador de Sistemas da Informação</li>
+      <li>📚✅ Técnico em Desenvolvimento de Sistemas</li>
+      <li>📚🕒 Tecnologo em Análise e Desenvolvimento de Sistemas</li>
+    </ol>
+  </div>
+  <br />
+  <div>
+    <a href="https://github.com/pessotticamilly">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=7&theme=dracula"/>]
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+  </div>
 </div>
-
+  
 <!--
 Ambientes de Desenvolvimento
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
@@ -44,14 +59,3 @@ Banco de Dados
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 -->
-
-dist/github-snake.svg
-dist/github-snake-dark.svg?palette=github-dark
-dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
-</div>
