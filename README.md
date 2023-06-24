@@ -4,18 +4,18 @@
   </div>
   <div>
     <h2>Sobre mim:</h2>
-    <ol>
+    <ul>
       <li>Meu nome é Camilly de Souza Pessotti</li>
       <li>Tenho 18 anos</li>
       <li>👩🏻‍💻 Desenvolvedora Fullstack mas amo o Frontend</li>
       <li>📚✅ Aprendizagem Industrial de Programador de Sistemas da Informação</li>
       <li>📚✅ Técnico em Desenvolvimento de Sistemas</li>
       <li>📚🕒 Tecnologo em Análise e Desenvolvimento de Sistemas</li>
-    </ol>
+    </ul>
   </div>
   <div>
     <a href="https://github.com/pessotticamilly">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=7&theme=dracula"/>]
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=7&theme=dracula"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
   </div>
 </div>
