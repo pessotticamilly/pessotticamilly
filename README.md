@@ -1,7 +1,7 @@
 #👋 Hello! Welcome to my Github profile!
 ## My name is Camilly de Souza Pessotti.
 
-(https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula)
+<https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula>
 
 <--
 Ambientes de Desenvolvimento
