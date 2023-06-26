@@ -54,7 +54,7 @@
         <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
     </div>
   </div>
-  <div>
+  <div display="flex" align="center" justify="center">
     <h4></h4>
     <a href="https://github.com/pessotticamilly">
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=8&theme=dracula"/>
