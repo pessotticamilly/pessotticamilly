@@ -16,7 +16,7 @@
   
   <div>
     <h4>Linguagens e Ferramentas:</h4>
-    <div style="align-items: center; display: flex; justify-content: center;">
+    <div style="align-items: center; display: flex; justify-content: center; text-align: center;">
         <!--Linguagens de Programação e Marcação-->
         <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -60,6 +60,8 @@
       <a href="https://github.com/pessotticamilly">
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=8&theme=dracula"/>
         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=seu_nome_de_usuário&theme=radical"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical"/>
       </a>
     </div>
   </div>
