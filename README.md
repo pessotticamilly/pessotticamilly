@@ -3,7 +3,6 @@
     <h2>👋🏻 Olá! Bem-vindo(a) ao meu perfil do Github!</h2>
     <p>Meu nome é Camilly de Souza Pessotti e eu tenho 18 anos...</p>
   </div>
-  
   <div>
     <h4>Sobre mim:</h4>
     <ul>
@@ -13,10 +12,16 @@
       <li>🕒 Tecnólogo em Análise e Desenvolvimento de Sistemas</li>
     </ul>
   </div>
-  
+  <!--<div>
+    <h4>Contato:</h4>
+    <div>
+      <a href="#"></a>
+    </div>
+  </div>-->
+
   <div>
     <h4>Linguagens e Ferramentas:</h4>
-    <div style="align-items: center; display: flex; justify-content: center; text-align: center;">
+    <div>
         <!--Ambientes de Desenvolvimento-->
         <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
         <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -56,11 +61,11 @@
   </div>
   <div>
     <h4>Estatísticas do Github:</h4>
-    <div style="align-items: center; display: flex; justify-content: center;">
+    <div>
       <a href="https://github.com/pessotticamilly">
-        <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=pessotticamilly&theme=dracula"/>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=8&theme=dracula"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=pessotticamilly&theme=dracula"/>
       </a>
     </div>
   </div>
