@@ -60,8 +60,7 @@
       <a href="https://github.com/pessotticamilly">
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=8&theme=dracula"/>
         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=pessotticamilly&theme=radical"/>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=radical"/>
+        <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=pessotticamilly&theme=dracula"/>
       </a>
     </div>
   </div>
