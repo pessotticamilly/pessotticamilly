@@ -17,6 +17,11 @@
   <div>
     <h4>Linguagens e Ferramentas:</h4>
     <div style="align-items: center; display: flex; justify-content: center; text-align: center;">
+        <!--Ambientes de Desenvolvimento-->
+        <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+        <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+        <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+        <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
         <!--Linguagens de Programação e Marcação-->
         <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -34,11 +39,6 @@
         <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
         <!--Banco de Dados-->
         <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-        <!--Ambientes de Desenvolvimento-->
-        <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-        <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-        <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
         <!--Ambientes de Execução-->
         <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
         <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -58,9 +58,9 @@
     <h4>Estatísticas do Github:</h4>
     <div style="align-items: center; display: flex; justify-content: center;">
       <a href="https://github.com/pessotticamilly">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=8&theme=dracula"/>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
         <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=pessotticamilly&theme=dracula"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=8&theme=dracula"/>
       </a>
     </div>
   </div>
