@@ -5,8 +5,8 @@
   </div>
   <div>
     <h4>Sobre mim:</h4>
+    <p>👩🏻‍💻 Desenvolvedora Fullstack mas o Frontend tem meu ❤️</p>
     <ul>
-      <li>👩🏻‍💻 Desenvolvedora Fullstack mas o Frontend tem meu ❤️</li>
       <li>✅ Aprendizagem Industrial de Programador de Sistemas da Informação</li>
       <li>✅ Técnico em Desenvolvimento de Sistemas</li>
       <li>🕒 Tecnólogo em Análise e Desenvolvimento de Sistemas</li>
