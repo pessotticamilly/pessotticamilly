@@ -1,10 +1,10 @@
 <div>
   <div>
-    <h2>👋🏻 Olá! Bem-vindo(a) ao meu perfil do Github!</h2>
+    <h1>👋🏻 Olá! Bem-vindo(a) ao meu perfil do Github!</h1>
     <p>Meu nome é Camilly de Souza Pessotti e eu tenho 18 anos...</p>
   </div>
   <div>
-    <h4>Sobre mim:</h4>
+    <h3>Sobre mim:</h3>
     <p>Desenvolvedora Fullstack mas o Frontend tem meu ❤</p>
     <ul>
       <li>✅ Aprendizagem Industrial de Programador de Sistemas de Informação</li>
@@ -13,14 +13,14 @@
     </ul>
   </div>
   <!--<div>
-    <h4>Contato:</h4>
+    <h3>Contato:</h3>
     <div>
       <a href="#"></a>
     </div>
   </div>-->
 
   <div>
-    <h4>Linguagens e Ferramentas:</h4>
+    <h3>Linguagens e Ferramentas:</h3>
     <div>
       <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
       <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -40,7 +40,7 @@
     </div>
   </div>
   <div>
-    <h4>Estatísticas do Github:</h4>
+    <h3>Estatísticas do Github:</h3>
     <div>
       <a href="https://github.com/pessotticamilly">
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=8&theme=dracula"/>
