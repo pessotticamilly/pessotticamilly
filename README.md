@@ -48,9 +48,4 @@
       <a href="#"></a>
     </div>
   </div>-->
-  <!--
-  Linhas WEG para Terminal:
-  800 - João Pessoa: 16:50 - 17:20 - 17:50
-  820 - Centenário: 17:00 - 17:35
-  -->
 </div>
