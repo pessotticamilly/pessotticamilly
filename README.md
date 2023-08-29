@@ -7,7 +7,7 @@
     <h4>Sobre mim:</h4>
     <p>Desenvolvedora Fullstack mas o Frontend tem meu ❤</p>
     <ul>
-      <li>✅ Aprendizagem Industrial de Programador de Sistemas da Informação</li>
+      <li>✅ Aprendizagem Industrial de Programador de Sistemas de Informação</li>
       <li>✅ Técnico em Desenvolvimento de Sistemas</li>
       <li>🕒 Tecnólogo em Análise e Desenvolvimento de Sistemas</li>
     </ul>
