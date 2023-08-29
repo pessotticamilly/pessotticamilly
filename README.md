@@ -5,7 +5,7 @@
   </div>
   <div>
     <h4>Sobre mim:</h4>
-    <p>👩🏻‍💻 Desenvolvedora Frontend</p>
+    <p>Desenvolvedora Fullstack mas o Frontend tem meu ❤</p>
     <ul>
       <li>✅ Aprendizagem Industrial de Programador de Sistemas da Informação</li>
       <li>✅ Técnico em Desenvolvimento de Sistemas</li>
