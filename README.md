@@ -12,13 +12,6 @@
       <li>🕒 Tecnólogo em Análise e Desenvolvimento de Sistemas</li>
     </ul>
   </div>
-  <!--<div>
-    <h3>Contato:</h3>
-    <div>
-      <a href="#"></a>
-    </div>
-  </div>-->
-
   <div>
     <h3>Linguagens e Ferramentas:</h3>
     <div>
@@ -49,4 +42,10 @@
       </a>
     </div>
   </div>
+  <!--<div>
+    <h3>Contato:</h3>
+    <div>
+      <a href="#"></a>
+    </div>
+  </div>-->
 </div>
