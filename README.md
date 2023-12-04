@@ -15,7 +15,7 @@
   <div>
     <h3>Linguagens e Ferramentas:</h3>
     <div>
-      [![My Skills](https://skillicons.dev/icons?i=java,spring,py,fastapi,django,js,ts,md,html,css,sass,angular,react,vite,vue,git,firebase,mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=java,spring,py,fastapi,django,js,ts,md,html,css,sass,angular,react,vite,vue,git,firebase,mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)]
     </div>
   </div>
   <div>
