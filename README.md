@@ -16,7 +16,7 @@
     <h3>Linguagens e Ferramentas:</h3>
     <div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,py,html,css,sass,js,ts,spring,fastapi,django,react,vite,mysql,git&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=java,spring,html,css,sass,js,ts,react,vite,py,fastapi,django,mysql,git&theme=dark" />
       </a>
     </div>
   </div>
