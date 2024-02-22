@@ -1,7 +1,7 @@
 <div>
   <div>
     <h1>👋🏻 Olá! Bem-vindo(a) ao meu perfil do Github!</h1>
-    <p>Meu nome é Camilly Pessotti e eu tenho 18 anos...</p>
+    <p>Meu nome é Camilly Pessotti e eu tenho 19 anos...</p>
   </div>
   <div>
     <h3>Sobre mim:</h3>
