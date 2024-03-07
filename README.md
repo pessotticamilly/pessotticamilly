@@ -9,7 +9,7 @@
     <ul>
       <li>✅ Aprendizagem Industrial de Programador de Sistemas de Informação</li>
       <li>✅ Técnico em Desenvolvimento de Sistemas</li>
-      <li>🕒 Tecnólogo em Análise e Desenvolvimento de Sistemas</li>
+      <li>🕒 Curso Superior de Tecnologia (CST) em Análise e Desenvolvimento de Sistemas</li>
     </ul>
   </div>
   <div>
