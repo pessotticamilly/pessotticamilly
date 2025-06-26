@@ -4,7 +4,7 @@
     <p>Meu nome é Camilly Pessotti e eu tenho 20 anos...</p>
   </div>
   <div>
-    <h3>Sobre mim:</h3>
+    <h3>👩‍💻 Sobre mim:</h3>
     <p>Desenvolvedora Fullstack mas o Frontend tem meu ❤</p>
     <ul>
       <li>✅ Aprendizagem Industrial de Programador de Sistemas de Informação</li>
@@ -19,7 +19,7 @@
     </a>
   </div>
   <div>
-    <h3>Linguagens e Ferramentas:</h3>
+    <h3>🧰 Linguagens e Ferramentas:</h3>
     <div>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,spring,html,css,sass,js,ts,react,vite,py,fastapi,flask,django,markdown,git,mysql,postgres,mongo&theme=dark" />
@@ -27,7 +27,7 @@
     </div>
   </div>
   <div>
-    <h3>Estatísticas do Github:</h3>
+    <h3>📊 Estatísticas do Github:</h3>
     <div>
       <a href="https://github.com/pessotticamilly">
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=8&theme=dracula"/>
