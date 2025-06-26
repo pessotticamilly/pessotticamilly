@@ -1,7 +1,7 @@
 <div>
   <div>
     <h1>👋🏻 Olá! Bem-vindo(a) ao meu perfil do Github!</h1>
-    <p>Meu nome é Camilly Pessotti e eu tenho 19 anos...</p>
+    <p>Meu nome é Camilly Pessotti e eu tenho 20 anos...</p>
   </div>
   <div>
     <h3>Sobre mim:</h3>
@@ -9,8 +9,14 @@
     <ul>
       <li>✅ Aprendizagem Industrial de Programador de Sistemas de Informação</li>
       <li>✅ Técnico em Desenvolvimento de Sistemas</li>
-      <li>🕒 Curso Superior de Tecnologia (CST) em Análise e Desenvolvimento de Sistemas</li>
+      <li>✅ Curso Superior de Tecnologia (CST) em Análise e Desenvolvimento de Sistemas</li>
     </ul>
+  </div>
+  <div>
+  <h3>🎖️ Certificações:</h3>
+    <a href="https://www.credly.com/badges/2e3fcc97-5069-4f6a-b5e4-a3bd2db45039/public_url" target="_blank">
+      <img src="https://github.com/user-attachments/assets/6f490155-9ea1-4aff-94ba-7d14ce46d905" alt="Cisco Badge" width="150" />
+    </a>
   </div>
   <div>
     <h3>Linguagens e Ferramentas:</h3>
@@ -18,7 +24,6 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,spring,html,css,sass,js,ts,react,vite,py,fastapi,flask,django,markdown,git,mysql,postgres,mongo&theme=dark" />
       </a>
-      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e3fcc97-5069-4f6a-b5e4-a3bd2db45039" data-share-badge-host="https://www.credly.com"></div>
     </div>
   </div>
   <div>
@@ -38,4 +43,3 @@
     </div>
   </div>-->
 </div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
