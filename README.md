@@ -19,7 +19,6 @@
         <img src="https://skillicons.dev/icons?i=java,spring,html,css,sass,js,ts,react,vite,py,fastapi,flask,django,markdown,git,mysql,postgres,mongo&theme=dark" />
       </a>
       <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e3fcc97-5069-4f6a-b5e4-a3bd2db45039" data-share-badge-host="https://www.credly.com"></div>
-      <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     </div>
   </div>
   <div>
@@ -39,3 +38,4 @@
     </div>
   </div>-->
 </div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
