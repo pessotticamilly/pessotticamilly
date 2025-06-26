@@ -1,6 +1,6 @@
 <div>
   <div>
-    <h1>👋🏻 Olá! Bem-vindo(a) ao meu perfil do Github!</h1>
+    <h1>👋🏻 Olá! Bem-vindo ao meu perfil do Github!</h1>
     <p>Meu nome é Camilly Pessotti e eu tenho 20 anos...</p>
   </div>
   <div>
