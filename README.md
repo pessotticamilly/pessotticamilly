@@ -22,7 +22,7 @@
     <h3>🧰 Linguagens e Ferramentas:</h3>
     <div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,html,css,sass,js,ts,react,vite,py,fastapi,flask,django,markdown,git,mysql,postgres,mongo&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=java,spring,html,css,sass,js,ts,react,vite,py,fastapi,flask,django,markdown,git,mysql,postgres,mongo,oracle&theme=dark" />
       </a>
     </div>
   </div>
