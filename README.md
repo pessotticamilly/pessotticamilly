@@ -1,7 +1,7 @@
 <div>
   <div>
     <h1>👋🏻 Olá! Bem-vindo ao meu perfil do Github!</h1>
-    <p>Meu nome é Camilly Pessotti e eu tenho 20 anos...</p>
+    <p>Meu nome é Camilly Pessotti e eu tenho 21 anos...</p>
   </div>
   <div>
     <h3>👩‍💻 Sobre mim:</h3>
@@ -36,10 +36,18 @@
       </a>
     </div>
   </div>
-  <!--<div>
-    <h3>Contato:</h3>
+  <div>
+    <h3>📫 Contato:</h3>
     <div>
-      <a href="#"></a>
+      <a href="mailto:camillypessotti05@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+      <a href="https://www.linkedin.com/in/camilly-pessotti-317373241/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="https://www.instagram.com/pessotticamilly/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+      </a>
     </div>
-  </div>-->
+  </div>
 </div>
