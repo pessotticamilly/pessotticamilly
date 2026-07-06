@@ -32,7 +32,7 @@
 
   <div>
     <h3>📊 Estatísticas do Github:</h3>
-      [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pessotticamilly&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=pessotticamilly&langs_count=4&theme=dracula)
+      ![https://github-stats-extended.vercel.app/api/top-langs?username=pessotticamilly&langs_count=4&theme=dracula](https://github-stats-extended.vercel.app/api/top-langs?username=pessotticamilly&langs_count=4&theme=dracula)
   </div>
   
   <div>
