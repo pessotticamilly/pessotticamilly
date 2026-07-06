@@ -29,17 +29,11 @@
       </a>
     </div>
   </div>
-  
-  <!-- <div>
+
+  <div>
     <h3>📊 Estatísticas do Github:</h3>
-    <div>
-      <a href="https://github.com/pessotticamilly">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessotticamilly&layout=compact&langs_count=8&theme=dracula"/>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pessotticamilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=pessotticamilly&theme=dracula"/>
-      </a>
-    </div>
-  </div> -->
+    [![GitHub Streak](https://streak-stats.demolab.com?user=pessotticamilly&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  </div>
   
   <div>
     <h3>📫 Contato:</h3>
