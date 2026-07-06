@@ -32,9 +32,7 @@
 
   <div>
     <h3>📊 Estatísticas do Github:</h3>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=pessotticamilly&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-      </a>
+      [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pessotticamilly&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=pessotticamilly&langs_count=4&theme=dracula)
   </div>
   
   <div>
