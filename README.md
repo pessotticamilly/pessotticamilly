@@ -32,7 +32,9 @@
 
   <div>
     <h3>📊 Estatísticas do Github:</h3>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=pessotticamilly&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=pessotticamilly&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+      </a>
   </div>
   
   <div>
