@@ -32,8 +32,10 @@
 
   <div>
     <h3>📊 Estatísticas do Github:</h3>
-    <img
+    <div style="display: flex; align-items: center;">
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=pessotticamilly&langs_count=4&theme=dracula" alt="Top Langs">
+      <img src="https://github-stats-extended.vercel.app/api?username=pessotticamilly&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula" alt="Stats">
+    </div>
   </div>
   
   <div>
